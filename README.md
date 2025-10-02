@@ -56,7 +56,7 @@ Planned upgrades: embeddings (SBERT/Word2Vec) and OpenSkills/O*NET taxonomy for 
 
 ## 📂 Repo Structure
 
-career-skill-recommender/
+career-skill-recommender/  
 ├─ data/ # Local dataset (not tracked in git)  
 │ └─ job_postings.csv  
 ├─ notebooks/ # Jupyter notebooks (MVP logic)  
