@@ -57,15 +57,15 @@ Planned upgrades: embeddings (SBERT/Word2Vec) and OpenSkills/O*NET taxonomy for 
 ## 📂 Repo Structure
 
 career-skill-recommender/
-- ├─ data/ # Local dataset (not tracked in git)
-- │ └─ job_postings.csv
-- ├─ notebooks/ # Jupyter notebooks (MVP logic)
-- │ └─ 01_mvp_recommender.ipynb
-- ├─ src/ # Source code (future: pipeline/API)
-- ├─ requirements.txt # Dependencies
-- ├─ README.md # Project overview (this file)
-- ├─ LICENSE # License
-- └─ .gitignore # Ignore data & artifacts
+├─ data/ # Local dataset (not tracked in git)  
+│ └─ job_postings.csv  
+├─ notebooks/ # Jupyter notebooks (MVP logic)  
+│ └─ 01_mvp_recommender.ipynb  
+├─ src/ # Source code (future: pipeline/API)  
+├─ requirements.txt # Dependencies  
+├─ README.md # Project overview (this file)  
+├─ LICENSE # License  
+└─ .gitignore # Ignore data & artifacts  
   
 ## ▶️ How to Run
 1) Clone the repo
@@ -102,7 +102,7 @@ Output:
 --- Missing Skills (Data Scientist variants) ---
 ['machine learning', 'deep learning', 'aws', 'docker', 'tensorflow']
 
-- 🔮 Roadmap
+## 🔮 Roadmap
 - ✅ MVP recommender with TF‑IDF + regex
 - 🚧 Upgrade to embeddings (SBERT / Word2Vec)
 - 🚧 Serve as REST API (FastAPI)
