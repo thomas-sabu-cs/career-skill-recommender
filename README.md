@@ -88,8 +88,9 @@ pip install -r requirements.txt
 jupyter notebook notebooks/01_mvp_recommender.ipynb
 (If needed, update DATA_DIR in the notebook to point to your local data/ path)
 
-📈 Example Output
+##📈 Example Output
 Input: user = ["python", "sql", "pandas"]
+
 Output:
 
 --- Recommended Roles ---
