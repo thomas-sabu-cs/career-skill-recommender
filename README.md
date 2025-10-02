@@ -81,7 +81,7 @@ cd career-skill-recommender
 ```bash
 pip install -r requirements.txt
 ```
-4) Prepare data
+3) Prepare data
   - Download the Kaggle CSV and place job_postings.csv in data/
 
 4) Launch the MVP notebook
