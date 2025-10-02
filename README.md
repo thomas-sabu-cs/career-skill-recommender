@@ -34,9 +34,17 @@ Given a list of user skills, the system:
 This project showcases end-to-end ML engineering: data → modeling → recommendations → (future) API + deployment.
 
 ## 📊 Dataset
-- Source: Kaggle (LinkedIn job postings dataset)
-- Size: 124k+ job postings with titles, descriptions, and inferred skills
-- Columns used: `title`, `description`, `skills_desc`, plus metadata (location, salary, etc.)
+- **Source:** Kaggle [LinkedIn Job Postings Dataset]  
+- **Size:** 124,000+ job postings with job titles, descriptions, and inferred skills  
+- **Columns Used:** `title`, `description`, `skills_desc`, plus metadata (location, salary, etc.)
+
+⚠️ **Note on Data in Repo**  
+- The raw Kaggle dataset (`job_postings.csv`) is **NOT committed to GitHub** due to licensing restrictions and file size.  
+- Instead, the repository contains:  
+  - `data/skills/skills_list.txt` → a curated vocabulary of ~200 common technical skills (used for skill extraction).  
+  - `data/.gitkeep` → an empty anchor so the `data/` folder is visible, even though large raw data is ignored.  
+
+👉 This keeps the repo lightweight, open‑source safe, and reproducible — simply download the Kaggle dataset locally into `data/` to run the notebook.
 
 Note: Due to licensing, raw data is not committed. Place `job_postings.csv` in the local `data/` folder to run.
 
