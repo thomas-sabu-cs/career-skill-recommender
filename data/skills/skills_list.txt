@@ -156,3 +156,197 @@ hyperparameter tuning
 ab testing
 data governance
 data security
+
+# More Cloud (AWS/Azure/GCP)
+amazon sagemaker
+emr
+glue
+athena
+step functions
+ecr
+eks
+eCS
+rds
+sns
+sqs
+kinesis
+azure databricks
+azure data factory
+azure synapse
+azure data lake
+adls
+event hubs
+cosmos db
+gcp dataproc
+dataflow
+pub/sub
+vertex ai
+cloud run
+cloud functions
+cloud storage
+bigtable
+spanner
+iam
+
+# Data Warehousing / Databases
+clickhouse
+duckdb
+vertica
+teradata
+snowpipe
+ms sql server
+t-sql
+pl/sql
+presto
+trino
+aurora
+redshift spectrum
+
+# Data Modeling / Transformation / Quality
+dbt
+great expectations
+data vault
+star schema
+snowflake schema
+dimensional modeling
+
+# Streaming / Messaging / Search
+ksql
+kafka connect
+rabbitmq
+zookeeper
+opensearch
+
+# Experiment Tracking / MLOps
+weights & biases
+wandb
+neptune.ai
+kubeflow
+seldon
+bentoml
+mlflow models
+torchserve
+tensorflow serving
+onnx
+onnx runtime
+tensorrt
+ray
+ray tune
+horovod
+optuna
+
+# Feature Stores / Vector Databases
+feast
+feature store
+faiss
+pinecone
+milvus
+weaviate
+chroma
+
+# LLM / RAG / Prompting
+openai api
+anthropic
+cohere
+hugging face
+transformers library
+tokenization
+prompt engineering
+rag
+retrieval augmented generation
+sentence transformers
+text embeddings
+
+# NLP / CV Tooling
+spacy
+nltk
+gensim
+openai whisper
+opencv
+tesseract
+ocr
+
+# Time Series / Forecasting
+prophet
+arima
+sarima
+fbprophet
+gluonts
+tsfresh
+
+# Orchestration / Workflow / Scheduling
+dagster
+cron
+crontab
+luigi
+
+# Monitoring / Observability
+prometheus
+grafana
+opentelemetry
+elk stack
+
+# DevOps / CI-CD extras
+circleci
+travis ci
+bitbucket pipelines
+artifactory
+nexus
+podman
+
+# APIs / Standards
+restful apis
+openapi
+swagger
+oauth
+jwt
+
+# Security / Governance / Catalog
+pii
+gdpr
+hipaa
+sox
+data lineage
+data catalog
+amundsen
+collibra
+alation
+
+# BI / Dashboarding extras
+metabase
+mode analytics
+redash
+hex
+
+# Python Packaging / Testing
+conda
+poetry
+pipenv
+pytest
+black
+ruff
+pre-commit
+
+# Frontend (common in DS platform roles)
+react
+redux
+vite
+webpack
+
+# File Formats / Serialization
+parquet
+orc
+avro
+protobuf
+messagepack
+
+# Misc Utilities
+regex
+yaml
+toml
+csv
+jsonlines
+shell
+powershell
+windows
+macos
