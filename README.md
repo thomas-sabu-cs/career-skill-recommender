@@ -55,8 +55,9 @@ Planned upgrades: embeddings (SBERT/Word2Vec) and OpenSkills/O*NET taxonomy for 
 - Future: FastAPI service + simple frontend
 
 ## 📂 Repo Structure
+```bash
 career-skill-recommender/
-├─ data/ # Local dataset (not tracked)
+├─ data/ # Local dataset (not tracked in git)
 │ └─ job_postings.csv
 ├─ notebooks/ # Jupyter notebooks (MVP logic)
 │ └─ 01_mvp_recommender.ipynb
@@ -65,21 +66,22 @@ career-skill-recommender/
 ├─ README.md # Project overview (this file)
 ├─ LICENSE # License
 └─ .gitignore # Ignore data & artifacts
-
+```
 ## ▶️ How to Run
 1) Clone the repo
 ```bash
 
 git clone https://github.com/<your-username>/career-skill-recommender.git
-
+```
 AND
-
+```bash
 cd career-skill-recommender
-
+```
 2) Install dependencies in CMD:
+```bash
 pip install -r requirements.txt
-
-3) Prepare data
+```
+4) Prepare data
   - Download the Kaggle CSV and place job_postings.csv in data/
 
 4) Launch the MVP notebook
