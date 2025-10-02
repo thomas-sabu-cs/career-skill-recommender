@@ -89,18 +89,17 @@ jupyter notebook notebooks/01_mvp_recommender.ipynb
 (If needed, update DATA_DIR in the notebook to point to your local data/ path)
 
 ## 📈 Example Output
-Input: user = ["python", "sql", "pandas"]
+Input: user = ["python", "sql", "pandas"]  
 
-Output:
+Output:  
+--- Recommended Roles ---  
+[('Python Developer with AI/ML Skills', 0.724),  
+ ('Data Scientist - AI Investment', 0.690),  
+ ('Machine Learning Engineer', 0.662),  
+ ...]  
 
---- Recommended Roles ---
-[('Python Developer with AI/ML Skills', 0.724),
- ('Data Scientist - AI Investment', 0.690),
- ('Machine Learning Engineer', 0.662),
- ...]
-
---- Missing Skills (Data Scientist variants) ---
-['machine learning', 'deep learning', 'aws', 'docker', 'tensorflow']
+--- Missing Skills (Data Scientist variants) ---  
+['machine learning', 'deep learning', 'aws', 'docker', 'tensorflow']  
 
 ## 🔮 Roadmap
 - ✅ MVP recommender with TF‑IDF + regex
