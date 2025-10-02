@@ -209,7 +209,15 @@ __marimo__/
 # === Project-specific ignores ===
 
 # Data files (raw and processed)
-data/
+# By default, ignore the entire data folder (so large raw datasets never get committed)…
+data/*
+
+# …but explicitly keep the curated skills list and and empty /data
+!data/skills/
+!data/skills/skills_list.txt
+!data/.gitkeep
+
+# Still ignore direct CSVs, JSONs, pickles, parquet etc. at project root
 *.csv
 *.tsv
 *.json
