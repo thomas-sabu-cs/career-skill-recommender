@@ -1,0 +1,158 @@
+# Core Programming
+python
+r
+java
+c++
+c#
+scala
+go
+rust
+typescript
+javascript
+bash
+shell scripting
+linux
+git
+github
+gitlab
+
+# Data Science / ML
+pandas
+numpy
+scipy
+scikit-learn
+tensorflow
+keras
+pytorch
+theano
+mxnet
+xgboost
+lightgbm
+fastai
+mlflow
+dask
+statsmodels
+
+# Machine Learning Concepts
+machine learning
+deep learning
+reinforcement learning
+transfer learning
+computer vision
+natural language processing
+nlp
+transformers
+time series
+bayesian statistics
+markov models
+regression
+classification
+clustering
+dimensionality reduction
+recommender systems
+
+# Cloud Platforms
+aws
+amazon web services
+azure
+microsoft azure
+gcp
+google cloud
+bigquery
+dataproc
+athena
+redshift
+snowflake
+databricks
+s3
+ec2
+lambda
+cloudwatch
+cloudformation
+
+# DevOps / MLOps
+docker
+kubernetes
+terraform
+ansible
+jenkins
+airflow
+prefect
+mlops
+cicd
+continuous integration
+continuous delivery
+github actions
+
+# Big Data / Data Engineering
+hadoop
+spark
+hive
+pig
+mapreduce
+flink
+kafka
+beam
+storm
+elastic search
+elasticsearch
+neo4j
+mongodb
+cassandra
+postgresql
+mysql
+sqlite
+oracle
+snowflake
+redshift
+
+# Data Visualization / BI
+tableau
+power bi
+qlik
+looker
+superset
+spotfire
+excel
+matplotlib
+seaborn
+plotly
+ggplot2
+d3.js
+
+# Web / API / Frameworks
+flask
+django
+fastapi
+rest api
+graphql
+microservices
+spring boot
+node.js
+express.js
+
+# Tools / Workflow
+jira
+confluence
+notion
+slack
+microsoft teams
+trello
+asana
+
+# Other Tech / Misc
+sas
+stata
+mathematica
+octave
+vba
+spark sql
+hiveql
+etl
+data warehousing
+data modeling
+feature engineering
+hyperparameter tuning
+ab testing
+data governance
+data security
